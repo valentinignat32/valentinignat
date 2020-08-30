@@ -1,0 +1,19 @@
+
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8‰äÎæ³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õâˆ‘8‰äÎæ³.
+T	java:S106}"9Replace this use of System.out or System.err by a logger.(Š³İn8‰äÎæ³.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‰«úµ8‰äÎæ³.
+X	java:S125 "<This block of commented-out lines of code should be removed.(†€éˆ8‰äÎæ³.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(®Œöñıÿÿÿÿ8‰äÎæ³.
+f
+java:S1854"DRemove this useless assignment to local variable "producatorSalvat".(¸İÍ†úÿÿÿÿ8‰äÎæ³.
+…
+java:S1488="cImmediately return this expression instead of assigning it to the temporary variable "producatori".(¹‰•œûÿÿÿÿ8‰äÎæ³.
+k
+java:S11921"NDefine a constant instead of duplicating this literal "Producatorul " 3 times.(‰«úµ8‰äÎæ³.
+N
+java:S1135A"2Complete the task associated to this TODO comment.(çŒØ=8‰äÎæ³.
+W
+java:S1481"5Remove this unused "producatorSalvat" local variable.(¸İÍ†úÿÿÿÿ8‰äÎæ³.
+]	java:S125D"<This block of commented-out lines of code should be removed.(Çà«ùÿÿÿÿ8‰äÎæ³.

@@ -1,0 +1,114 @@
+
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(Éæ©8İÔ¹ú³.
+J
+java:S1199Z"-Extract this nested code block into a method.(ÎŞèº8İÔ¹ú³.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(Ã¿ï«úÿÿÿÿ8İÔ¹ú³.
+z
+java:S1192C"]Define a constant instead of duplicating this literal "Alegeti o operatiune valida!" 4 times.(Éæ©8Áƒ×ú³.
+O
+java:S1199l"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İÔ¹ú³.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‰÷İñşÿÿÿÿ8Ë«­ú³.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(À¬É±8İÔ¹ú³.
+O
+java:S1199r"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8Ë«­ú³.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ë«­ú³.
+t
+java:S1192-"WDefine a constant instead of duplicating this literal "Alegeti o operatiune: " 4 times.(Êø¨8œ½Êú³.
+O
+java:S1199x"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8Ë«­ú³.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÊÂı 8İÔ¹ú³.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ªÚÿ€üÿÿÿÿ8İÔ¹ú³.
+P
+java:S1199"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8ôíæÉ¶.
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(ûÕÏ¾8ôíæÉ¶.
+R
+java:S1068"5Remove this unused "comandaController" private field.(«Œ ÷8ôíæÉ¶.
+O
+java:S1199I"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İÔ¹ú³.
+O
+java:S1199d"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İÔ¹ú³.
+K
+java:S1128".Remove this unused import 'dao.UtilizatorDao'.(ÖïŞ8Ë«­ú³.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(§·¸»ÿÿÿÿÿ8İÔ¹ú³.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(Êø¨8İÔ¹ú³.
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(·ŠÊƒùÿÿÿÿ8İÔ¹ú³.
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(‚ÃÅûÿÿÿÿ8ôíæÉ¶.
+O
+java:S1199]"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İÔ¹ú³.
+P
+java:S1199‹"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ôíæÉ¶.
+P
+java:S1128	".Remove this unused import 'modele.Producator'.(í°à•ûÿÿÿÿ8Ë«­ú³.
+V
+java:S1068"4Remove this unused "produsController" private field.(ïÁÅøşÿÿÿÿ8ôíæÉ¶.
+O
+java:S1199B"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İÔ¹ú³.
+F
+java:S1128
+"*Remove this unused import 'modele.Produs'.(¿¤¼8Ë«­ú³.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(®’«úÿÿÿÿ8İÔ¹ú³.
+O
+java:S11994"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İÔ¹ú³.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(‘«²Ë8šéô³.
+m	java:S128I"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ8İÔ¹ú³.
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(Óí—8ôíæÉ¶.
+P
+java:S1199ˆ"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8šéô³.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(åÔò…8šéô³.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ë«­ú³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Êø¨8ôíæÉ¶.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Êø¨8Ë«­ú³.
+O
+java:S1199o"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İÔ¹ú³.
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(í˜Ëşşÿÿÿÿ8ôíæÉ¶.
+G
+java:S1128"*Remove this unused import 'dao.ProdusDao'.(Ò±8Ë«­ú³.
+O
+java:S11999"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8Ë«­ú³.
+P
+java:S1128".Remove this unused import 'dao.ProducatorDao'.(¦åú­ÿÿÿÿÿ8Ë«­ú³.
+O
+java:S1199W"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İÔ¹ú³.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Û¼¥8ôíæÉ¶.
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(Èí³Øÿÿÿÿÿ8İÔ¹ú³.
+O
+java:S1199,"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Ë«­ú³.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(»ÿÄƒüÿÿÿÿ8»‰ôù³.
+J
+java:S1199u"-Extract this nested code block into a method.(ÎŞèº8İÔ¹ú³.
+P
+java:S1199”"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İÔ¹ú³.
+m	java:S128,"LEnd this switch case with an unconditional break, return or throw statement.(·ÿ½äûÿÿÿÿ8šéô³.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(«àİüÿÿÿÿ8ôíæÉ¶.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Éæ©8İÔ¹ú³.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(øŞ‰”ùÿÿÿÿ8İÔ¹ú³.
+K
+java:S1199‘"-Extract this nested code block into a method.(ÎŞèº8İÔ¹ú³.
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Éæ©8İÔ¹ú³.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Åİ‹úÿÿÿÿ8Ë«­ú³.
+O
+java:S1199Q"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İÔ¹ú³.
+Y
+java:S1144¡"6Remove this unused private "salvareUtilizator" method.(¤œİØşÿÿÿÿ8ôíæÉ¶.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(€¾³úÿÿÿÿ8İÔ¹ú³.
+O
+java:S1199<"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İÔ¹ú³.
+K
+java:S1199€"-Extract this nested code block into a method.(ÎŞèº8İÔ¹ú³.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‘®ºÿÿÿÿÿ8Ë«­ú³.
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(Êø¨8ôíæÉ¶.
+J
+java:S1199?"-Extract this nested code block into a method.(ÎŞèº8Ë«­ú³.
+T	java:S106h"9Replace this use of System.out or System.err by a logger.( ÊÅX8İÔ¹ú³.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(Éæ©8İÔ¹ú³.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(Øªûûÿÿÿÿÿ8ôíæÉ¶.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(èÇŸñùÿÿÿÿ8šéô³.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ÂÚúøÿÿÿÿ8İÔ¹ú³.
+U
+java:S1068"8Remove this unused "producatorController" private field.(€àòÌ8Ë«­ú³.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(°×÷Ò8Ë«­ú³.
+O
+java:S1199T"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İÔ¹ú³.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(éÂÿË8İÔ¹ú³.

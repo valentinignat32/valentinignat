@@ -1,0 +1,11 @@
+
+j
+java:S1192"JDefine a constant instead of duplicating this literal "Produsul " 3 times.(”á¥Ìúÿÿÿÿ8ßşóô±.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»òó×8Ç¼òô±.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¹àØÇÿÿÿÿÿ8ğ­‘ô±.
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "produse".(†€˜¨üÿÿÿÿ8™êèô±.
+I
+java:S1128".Remove this unused import 'modele.Utilizator'.(—­Â¢8üéòô±.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê¼ü8ëîô±.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(”á¥Ìúÿÿÿÿ8ÖÌŞô±.

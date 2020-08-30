@@ -1,0 +1,22 @@
+
+N
+java:S1128"1Remove this unused import 'javax.rmi.CORBA.Util'.(ïïãù8˜®Æõ³.
+ƒ
+java:S3252/"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8˜®Æõ³.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¾®³‘ÿÿÿÿÿ8˜®Æõ³.
+n
+java:S3252."LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(ÌŸåøÿÿÿÿ8˜®Æõ³.
+i
+java:S3252*"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(¬“²èùÿÿÿÿ8˜®Æõ³.
+j
+java:S3252+"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8˜®Æõ³.
+r
+java:S32520"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(ÎŒÓşıÿÿÿÿ8˜®Æõ³.
+m
+java:S3252-"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(³ú®ÿÿÿÿÿ8˜®Æõ³.
+l
+java:S3252)"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ÿûõûÿÿÿÿ8˜®Æõ³.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Ò¶¡şÿÿÿÿ8˜®Æõ³.
+d
+java:S3252,"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(æÔ³:8˜®Æõ³.

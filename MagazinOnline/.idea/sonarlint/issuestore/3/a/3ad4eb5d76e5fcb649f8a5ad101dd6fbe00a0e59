@@ -1,0 +1,19 @@
+
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(Ğåñ¹ıÿÿÿÿ8³ÅÏï±.
+W
+java:S1481"5Remove this unused "utilizatorSalvat" local variable.(€§Øüşÿÿÿÿ8à‰ığ±.
+O
+java:S1135A"2Complete the task associated to this TODO comment.(òÒØ8Ò¶ò±.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(éÚÍëüÿÿÿÿ8²òÄï±.
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(åæíÂ8»²Üï±.
+X	java:S125D"<This block of commented-out lines of code should be removed.(­ó÷8´Å¥ñ±.
+€
+java:S1488="cImmediately return this expression instead of assigning it to the temporary variable "utilizatori".(ÌÒ±±8‘ë…ò±.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢³‹ƒ8ß™­ï±.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8âÑ¬ï±.
+p
+java:S11921"NDefine a constant instead of duplicating this literal "Utilizatorul " 3 times.(éÚÍëüÿÿÿÿ8»²Üï±.
+f
+java:S1854"DRemove this useless assignment to local variable "utilizatorSalvat".(€§Øüşÿÿÿÿ8à‰ığ±.
+X	java:S125 "<This block of commented-out lines of code should be removed.(†€éˆ8º±œô±.

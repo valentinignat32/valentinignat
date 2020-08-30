@@ -1,0 +1,22 @@
+
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÏÌš¯şÿÿÿÿ8Ë¥üî³.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(›…€ãùÿÿÿÿ8Ë¥üî³.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(õÆ¢Ü8Ë¥üî³.
+O
+java:S11353"2Complete the task associated to this TODO comment.(òÒØ8Ë¥üî³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÌïÕøÿÿÿÿ8Ë¥üî³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿš İ8Ë¥üî³.
+‰
+java:S1488L"gImmediately return this expression instead of assigning it to the temporary variable "isProdusUpdated".(š¾²ûÿÿÿÿ8Ë¥üî³.
+‰
+java:S1488R"gImmediately return this expression instead of assigning it to the temporary variable "isProdusDeleted".(ìİó´ûÿÿÿÿ8Ë¥üî³.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Èšå™ùÿÿÿÿ8Ë¥üî³.
+€
+java:S1488-"cImmediately return this expression instead of assigning it to the temporary variable "produsGasit".(‹’†á8Ë¥üî³.
+^
+java:S1126#"AReplace this if-then-else statement by a single return statement.(Â¹ğÙ8¶ó³.
+y
+java:S1488B"\Immediately return this expression instead of assigning it to the temporary variable "list".(­“é¦8Ë¥üî³.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡êÿ‡8Ë¥üî³.
+W	java:S1255"<This block of commented-out lines of code should be removed.(Ô£ùe8Ë¥üî³.

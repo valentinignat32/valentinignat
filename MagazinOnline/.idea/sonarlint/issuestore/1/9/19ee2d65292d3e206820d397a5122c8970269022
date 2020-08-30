@@ -1,0 +1,22 @@
+
+W
+java:S1481"5Remove this unused "producatorSalvat" local variable.(ž×¡½ûÿÿÿÿ8ôµ™ï³.
+]	java:S125,"<This block of commented-out lines of code should be removed.(×®’òýÿÿÿÿ8ôµ™ï³.
+ˆ
+java:S1488C"kImmediately return this expression instead of assigning it to the temporary variable "isProducatorUpdated".(ÂÆ»Ò8ôµ™ï³.
+ˆ
+java:S1488I"kImmediately return this expression instead of assigning it to the temporary variable "isProducatorDeleted".(•¤ê8ôµ™ï³.
+f
+java:S1854"DRemove this useless assignment to local variable "producatorSalvat".(ž×¡½ûÿÿÿÿ8ôµ™ï³.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(üˆ8ôµ™ï³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™Ž§8ôµ™ï³.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ï°€•8ôµ™ï³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( Óèûÿÿÿÿ8ôµ™ï³.
+y
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "list".(î¾ÍÉ8ôµ™ï³.
+N
+java:S1135*"2Complete the task associated to this TODO comment.(çŒØ=8ôµ™ï³.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(„Ã­¾8ôµ™ï³.
+„
+java:S1488$"gImmediately return this expression instead of assigning it to the temporary variable "producatorGasit".(ýÖ‰š8ôµ™ï³.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(…—ÏÜ8ôµ™ï³.
